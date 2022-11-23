@@ -30,4 +30,3 @@
 ## Trees
 
 ##### 1. [Binary Search Tree](binarySearchTree.c)
-##### 3. [Linked-list implementation using 1d array](/blob/main/array_using_linked_list.c)
