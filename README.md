@@ -7,7 +7,7 @@
 ##### 3. [Two dimensional array *(both Rows and Columns dynamic)*](complete_dynamic_2d_array.c)
 
 ### Searching
-##### i. [Linear and Binary Search *on One-Dimensional Array)*](linear_and_binary_search_on_dynamic_1d_array.c)
+##### i. [Linear and Binary Search *on One-Dimensional Array*](linear_and_binary_search_on_dynamic_1d_array.c)
 
 
 
@@ -26,6 +26,10 @@
 ## Queue
 
 ##### 1. [Circular Queue *(Using Array)*](circularQueue.c)
+
+## Heap
+
+##### 1. [Heap *(Using Array)*](heapUsingArray.c)
 
 ## Trees
 
