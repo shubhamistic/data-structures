@@ -22,6 +22,7 @@
 ##### 1. [Stack *(Using Array)*](stack_using_array.c)
 ##### 2. [Stack *(Using Linked-List)*](stack_using_linked_list.c)
 ##### 3. [Infix to Postfix Converter](infixToPostfix.c)
+##### 4. [Infix to Prefix Converter](infixToPrefix.c)
 
 ## Queue
 
